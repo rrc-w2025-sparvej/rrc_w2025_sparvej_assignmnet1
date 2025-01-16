@@ -31,4 +31,8 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-
+# Purpose of the following Commands
+-'mkdir': to make a new directory
+-'cd' :to change the current working directory or move back into parent directory
+-'code' : opens up VS CODE directly from  the gitbash 
+-'ls' :  to list all the files.
