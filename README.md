@@ -57,3 +57,8 @@ It helps in -
 -'git branch' : a pointer to a snapshot of your changes
 -'git merge' : combines multiple commits into one 
 -'git checkout' : navigate between branches created by git branch
+
+# My Unique Touch
+
+There are things that set me apart from others-
+I always believe in hardwork and discipline.According to me, one can succeed only through these two principles.However,I know if there are chocolates there will be sour lemons too.I am just a dreamer who is all set to enjoyand face difficulties.I also like curating and painting my emotions on canvas boards.A teen with a bundle of dreams to pursue.
