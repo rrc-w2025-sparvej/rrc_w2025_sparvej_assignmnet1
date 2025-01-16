@@ -45,3 +45,15 @@ It helps in -
 -Merging
 -Branching
 -Supports Auditing
+
+# Purpose of the following git commands
+-'git init' : creates a new git repository
+-'git status' : displays the state of working directory and the staging area
+-'git add' : adds a change in the working directory to the staging area
+-'git commit' : saves the changes to the local repository
+-'git push' : upload local repository content to remote repository
+-'git pull' : fetch and download content from a remote repository and immediately update it
+-'git log' : lists the commits made in the repository in reverse order
+-'git branch' : a pointer to a snapshot of your changes
+-'git merge' : combines multiple commits into one 
+-'git checkout' : navigate between branches created by git branch
