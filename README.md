@@ -36,3 +36,12 @@ no changes added to commit (use "git add" and/or "git commit -a")
 -'cd' :to change the current working directory or move back into parent directory
 -'code' : opens up VS CODE directly from  the gitbash 
 -'ls' :  to list all the files.
+
+# Why version control is important
+Version control aid sin maintaining a consistent and reliable record of data and code changes.When working in a company,the lates software could be used my many people with the help of it.
+It helps in -
+-Keeping the data backup
+-Tracking changes 
+-Merging
+-Branching
+-Supports Auditing
